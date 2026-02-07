@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { getUsers, deleteUser,updateUser } from "./api";
+import { getUsers, deleteUser } from "./api";
 import View from "./views/view";
 import Form from "./Form";
 import 'bootstrap/dist/css/bootstrap.min.css';
